@@ -8,9 +8,7 @@ This repository contains the source code and exercises for the book **"Digital I
 
 In this example, we implement a simple but complete linear model with two trainable parameters:
 
-\[
-y = w \cdot x + b
-\]
+**Model:** *y = w·x + b*
 
 Unlike the previous example (which assumed the line passes through the origin), this model can learn a vertical shift (bias term).
 
