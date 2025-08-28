@@ -1,0 +1,6 @@
+[package]
+name = "EP01_S03_EX02"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
